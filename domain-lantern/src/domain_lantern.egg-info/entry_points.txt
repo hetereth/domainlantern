@@ -1,0 +1,2 @@
+[console_scripts]
+domain-lantern = domain_lantern.cli:main
